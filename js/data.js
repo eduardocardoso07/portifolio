@@ -26,7 +26,7 @@ const services = [
       "Formulário de contato ou orçamento",
       "Otimização básica para aparecer no Google",
     ],
-    startingAt: "R$ 600",
+    startingAt: "R$ 159,00",
     timeline: "3 a 5 dias úteis",
   },
   {
@@ -38,7 +38,7 @@ const services = [
       "Integração com redes sociais e WhatsApp",
       "Domínio e hospedagem — orientação incluída",
     ],
-    startingAt: "R$ 1.400",
+    startingAt: "R$ 700,00",
     timeline: "1 a 2 semanas",
   },
   {
@@ -50,7 +50,7 @@ const services = [
       "Integração com checkout ou pagamento",
       "Testes de velocidade e usabilidade",
     ],
-    startingAt: "R$ 900",
+    startingAt: "R$ 400,00",
     timeline: "4 a 7 dias úteis",
   },
 ];
@@ -74,5 +74,13 @@ const projects = [
     description: "",
     image: "assets/images/projeto1.jpg",
     link: "https://mharjoryesants.vercel.app/"
+  },
+
+  {
+    title: "Psicologia - Demonstração",
+    category: "Landing Page",
+    description: "",
+    image: "assets/images/projeto2.jpg",
+    link: "https://demo-psicologia-liard.vercel.app/"
   }
 ];

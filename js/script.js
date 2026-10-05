@@ -36,6 +36,7 @@ services.forEach((service) => {
     <ul class="service-includes">${includesHtml}</ul>
     <div class="service-footer">
       <p class="service-timeline">Prazo médio: ${service.timeline}</p>
+      <p class "service-price">A partir de: ${service.startingAt}</p>
       <a href="${buildWhatsAppLink(`Olá, Eduardo! Tenho interesse no serviço "${service.title}".`)}"
          target="_blank" rel="noopener noreferrer" class="service-link">
         Falar sobre este serviço
